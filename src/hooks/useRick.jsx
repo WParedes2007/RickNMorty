@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 
 const useRick = (page, search, species) => {
-    const [character, setCharacter] = useState([]);
+    const [character, setCharacter] = useState([])
     const [info, setInfo] = useState();
     const [speciesOptions, setSpeciesOptions] = useState([
         "Human", "Alien", "Humanoid", "Poopybutthole",

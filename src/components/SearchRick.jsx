@@ -4,7 +4,7 @@ export const SearchRick = ({setSearch,setPage}) => {
   const [inputValue, setInputValue] = useState('')
 
   const handleSearch = () => {
-    setPage(1);
+    setPage(1)
     setSearch(inputValue)
   }
 

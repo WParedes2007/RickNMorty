@@ -28,6 +28,7 @@ export const RicknMortyApp = () => {
     return (
         <>
         <div className='container d-flex flex-row justify-content-center align-items-center mt-3 w-50'>
+            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRituBykJDfbBMeNym2UaQ9awQ1HgbN-JfQ&s'/>
         </div>
         <br></br>
         <div className='container d-flex flex-row justify-content-center align-items-center mt-3 w-50'>
